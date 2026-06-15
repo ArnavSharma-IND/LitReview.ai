@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Summarizer and Gap Finder",
+  "description": "An academic paper analysis suite. Ingest papers, extract summaries & citations, cluster topics, find research contradictions, gaps, and generate thesis / project ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
